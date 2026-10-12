@@ -3,9 +3,11 @@
 
 ***`Desenvolvedor Full Stack | Estudante de Sistemas de Informação`***
 
-Sou desenvolvedor Full Stack, com foco na construção de aplicações web e mobile, APIs REST e integração entre front-end e back-end, utilizando C#/.NET, Node.js/NestJS, React, React Native e Angular.
+Sou desenvolvedor Full Stack e estudante de Sistemas de Informação, com experiência prática no desenvolvimento de aplicações web e mobile, APIs REST, integração entre front-end e back-end e modelagem de bancos de dados. Trabalho com tecnologias como C#, .NET, Angular, React, React Native, Node.js e NestJS.
 
-Sou técnico em Informática e curso Bacharelado em Sistemas de Informação no IFNMG (Campus Pirapora), com conclusão prevista para 2027. Gosto de transformar o que aprendo em aplicações reais, passando por todo o ciclo: requisitos, modelagem, banco de dados, API, aplicativo, testes e documentação. Estou em busca de oportunidades de estágio, trainee ou desenvolvedor júnior, para trabalhar com sistemas reais e continuar evoluindo tecnicamente.
+Sou técnico em Informática e curso Bacharelado em Sistemas de Informação no IFNMG — Campus Pirapora, com conclusão prevista para 2027. Como projeto de TCC, desenvolvi o Minha Rua, uma aplicação mobile para registro e acompanhamento de ocorrências de manutenção urbana, envolvendo desde o levantamento de requisitos e a modelagem do sistema até o desenvolvimento do aplicativo, da API e da integração com o banco de dados.
+
+Gosto de aprender novas tecnologias, resolver problemas e transformar conhecimentos em soluções funcionais. Busco oportunidades de estágio ou desenvolvedor júnior para contribuir com projetos reais, aprimorar minhas habilidades técnicas e crescer profissionalmente na área de desenvolvimento de software.
 
 ---
 
