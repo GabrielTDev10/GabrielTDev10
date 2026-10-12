@@ -1,7 +1,13 @@
 # 👨🏻‍💻Gabriel Tavares Osório
 
 
-***`Desenvolvedor FullStack`***
+***`Desenvolvedor Full Stack | Estudante de Sistemas de Informação`***
+
+Sou desenvolvedor Full Stack, com foco na construção de aplicações web e mobile, APIs REST e integração entre front-end e back-end, utilizando C#/.NET, Node.js/NestJS, React, React Native e Angular.
+
+Sou técnico em Informática e curso Bacharelado em Sistemas de Informação no IFNMG (Campus Pirapora), com conclusão prevista para 2027. Gosto de transformar o que aprendo em aplicações reais, passando por todo o ciclo: requisitos, modelagem, banco de dados, API, aplicativo, testes e documentação.
+
+Estou em busca de oportunidades de estágio, trainee ou desenvolvedor júnior, para trabalhar com sistemas reais e continuar evoluindo tecnicamente.
 <!--
 **GabrielTDev10/GabrielTDev10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
