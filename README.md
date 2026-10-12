@@ -74,10 +74,6 @@ Gosto de aprender novas tecnologias, resolver problemas e transformar conhecimen
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTDev10&layout=compact&langs_count=8&theme=github_dark&locale=pt-br&hide_border=true" alt="Linguagens mais utilizadas" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GabrielTDev10&color=64748b&style=flat-square&label=VISUALIZA%C3%87%C3%95ES+DO+PERFIL" alt="Visualizações do perfil" />
-</p>
-
 ---
 
 <p align="center">
