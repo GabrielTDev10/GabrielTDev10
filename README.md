@@ -27,6 +27,14 @@ Sou técnico em Informática e curso Bacharelado em Sistemas de Informação no 
 </p>
 
 
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielTDev10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTDev10&layout=compact&langs_count=8&theme=tokyonight" alt="Linguagens mais utilizadas" />
+</p>
+
+
 
 <!--
 **GabrielTDev10/GabrielTDev10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
