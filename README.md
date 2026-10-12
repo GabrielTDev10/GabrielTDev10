@@ -87,9 +87,7 @@ Principais características
   </a>
 </p>
 
-Repositório React Native + NestJS API
 
-Repositório React Native + Axios
 
 ---
 
