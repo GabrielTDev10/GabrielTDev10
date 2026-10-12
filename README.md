@@ -57,18 +57,39 @@ Sou desenvolvedor Full Stack e estudante de Bacharelado em Sistemas de Informaç
 
 ---
 
-## 🚀 Projeto em destaque
+### 🚀 Projeto em destaque
 
-### Minha Rua
+🏙️ Minha Rua — Aplicação Mobile
 
-Aplicação mobile para registro e acompanhamento de ocorrências relacionadas à manutenção urbana, desenvolvida como Trabalho de Conclusão de Curso.
+Aplicação desenvolvida como Trabalho de Conclusão de Curso (TCC), com foco no registro e acompanhamento de ocorrências relacionadas à manutenção urbana. O projeto envolve desenvolvimento mobile, integração com APIs REST e disponibilização de serviços back-end.
 
-- 📱 Aplicação mobile para registro de ocorrências.
-- 🔌 API para integração entre o aplicativo e o back-end.
-- 🗄️ Modelagem e integração com banco de dados.
-- 📋 Levantamento de requisitos e desenvolvimento do sistema.
+Principais características
 
-*Adicione aqui o link do repositório ou da demonstração do projeto, quando disponível.*
+📱 Desenvolvimento da aplicação mobile com React Native.
+
+🔌 Integração com API utilizando Axios.
+
+⚙️ Desenvolvimento de API back-end com NestJS.
+
+🌐 API preparada para deploy e disponibilização de serviços.
+
+📂 Repositórios do projeto
+
+<p align="left">
+  <a href="https://github.com/GabrielTDev10/ReactNative-Nest.js-Api">
+    <img src="https://img.shields.io/badge/React%20Native%20%2B%20NestJS-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="React Native e NestJS" />
+  </a>
+  <a href="https://github.com/GabrielTDev10/Reactnative-API-Axios2">
+    <img src="https://img.shields.io/badge/React%20Native%20%2B%20Axios-475569?style=for-the-badge&logo=github&logoColor=white" alt="React Native e Axios" />
+  </a>
+  <a href="https://github.com/GabrielTDev10/Minha-Rua-Api-Deploy">
+    <img src="https://img.shields.io/badge/Minha%20Rua%20API%20Deploy-171717?style=for-the-badge&logo=github&logoColor=white" alt="Minha Rua API Deploy" />
+  </a>
+</p>
+
+Repositório React Native + NestJS API
+
+Repositório React Native + Axios
 
 ---
 
