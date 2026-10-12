@@ -5,7 +5,7 @@
 
 ***`Desenvolvedor Full Stack | Estudante de Sistemas de Informação`***
 
-###🧠 Sobre mim
+### 🧠 Sobre mim
 
 Sou desenvolvedor Full Stack e estudante de Sistemas de Informação, com experiência prática no desenvolvimento de aplicações web e mobile, APIs REST, integração entre front-end e back-end e modelagem de bancos de dados. Trabalho com tecnologias como C#, .NET, Angular, React, React Native, Node.js e NestJS.
 
