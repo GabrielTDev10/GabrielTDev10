@@ -1,5 +1,6 @@
-## Hi there 👋
+# 👨🏻‍💻Gabriel Tavares Osório
 
+**`Desenvolvedor FullStack` **
 <!--
 **GabrielTDev10/GabrielTDev10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
