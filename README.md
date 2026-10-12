@@ -21,13 +21,7 @@
   </a>
 </p>
 
-<p align="center">
-  📧 <a href="mailto:gabrielgtodev@gmail.com">gabrielgtodev@gmail.com</a>
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Disponível%20para-Estágio%20e%20Júnior-64748b?style=flat-square" alt="Disponível para oportunidades" />
-</p>
 
 ---
 
